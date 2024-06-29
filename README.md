@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm sebak chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **WordPress and Shopify**
+- 🔭 I’m currently working on **Shopify**
 
-- 🌱 I’m currently learning **Java,PHP and JQuary.**
+- 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **WordPress Work**
+- 👯 I’m looking to collaborate on **Shopify Work**
 
-- 💬 Ask me about **WordPress ..**
+- 💬 Ask me about **Shopify ..**
 
-- 📫 How to reach me **wpworld7@gmail.com**
+- 📫 How to reach me **wpworld7@gmail.com or chowdhurysaheb2024@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
